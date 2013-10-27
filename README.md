@@ -9,7 +9,7 @@ You have a small dataset consisting of students and their grades. Your tasks are
 * If the student's score is lower than 60, change the bar's color to red to indicate s/he failed the test.
 * Create a hover event that shows the student's score when the cursor is inside the bar.
 
-If you need more guidance, link the index file to "_js/script-beginner.js"; otherwise, link it to "_js/script-advanced.js"
+If you need more guidance, link the index file to "script-beginner.js"; otherwise, link it to "script-advanced.js"
 
 You may find the SVG documentation helpful:
 * https://developer.mozilla.org/en-US/docs/Web/SVG/Element
